@@ -1,0 +1,27 @@
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+  color: #18191F;
+  background: #F2F3F5;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+input {
+  font-size: 1.5em;
+  margin-bottom: 5%;
+  border: 1px solid #18191F;
+  border-radius: 8px;
+  background-color: #F2F3F5;
+  padding: 1% 25% 1% 2%;
+}
